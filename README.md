@@ -29,8 +29,9 @@ Circuit Design
 
 Source code is available in the /code directory.
 
- Project Images
-
+ Demo Video
+ 
+https://github.com/user-attachments/assets/f73357d4-ef4b-49ec-80db-75a862345f85
 
 
 
