@@ -1,10 +1,14 @@
-# Spin Coater Project
+# Digital Spin Coater with Touch screen
 
 Thanks to "https://github.com/klotzsch-lab/Maasi" for hardware design i used.
 
 This project focuses on designing and building a spin coater system used for uniform thin film deposition. It combines mechanical design, electronics, and control systems.
+**Demo Video**
+ 
+https://github.com/user-attachments/assets/f73357d4-ef4b-49ec-80db-75a862345f85
 
 **Features**
+vacuumless chuck (vacuum chuck functionality will be added next version)
 Adjustable speed (350 to 10000 RPM)
 User defined ramp rate and coating time
 Stable and uniform coating
@@ -14,7 +18,7 @@ PID based presice RPM control
 
 A small amount of liquid is deposited on a substrate, which is then rotated at high speed. The centrifugal force spreads the liquid evenly, forming a thin film.
 
-Components Used
+**Components Used**
 BLDC Motor
 BLDC Motor RPM sensor
 Arduino Uno
@@ -28,11 +32,9 @@ ON/OFF Switch
 <img width="870" height="426" alt="Spincoater diagram" src="https://github.com/user-attachments/assets/b434a28d-2cf9-48be-9b48-6f848c5b5451" />
 
 Source code is available in the /code directory.
+<img width="835" height="629" alt="Spin" src="https://github.com/user-attachments/assets/9c6fbea5-1b10-4fa8-a289-13073673c4b4" />
 
-** Demo Video**
- 
-https://github.com/user-attachments/assets/f73357d4-ef4b-49ec-80db-75a862345f85
-
+i drill a hole in the center of motor shaft for adding vacuum chuck functionality in next version. 
 
 
 **Author**
