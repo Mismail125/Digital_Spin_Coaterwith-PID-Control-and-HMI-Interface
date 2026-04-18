@@ -38,7 +38,7 @@ ON/OFF Switch
 Source code is available in the /code directory.
 <img width="835" height="629" alt="Spin" src="https://github.com/user-attachments/assets/9c6fbea5-1b10-4fa8-a289-13073673c4b4" />
 
-i drill a hole in the center of motor shaft for adding vacuum chuck functionality in next version. 
+I drilled a hole through the center of the motor shaft to enable vacuum chuck functionality in the next version.
 
 
 **Author**
