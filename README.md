@@ -1,6 +1,6 @@
 # Digital Spin Coater with Touch screen
 
-Thanks to "https://github.com/klotzsch-lab/Maasi" for hardware design i used.
+Thanks to "https://github.com/klotzsch-lab/Maasi" for hardware design.
 
 This project focuses on designing and building a spin coater system used for uniform thin film deposition. It combines mechanical design, electronics, and control systems.
 
