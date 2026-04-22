@@ -10,11 +10,11 @@ https://github.com/user-attachments/assets/e0fda0b0-6889-4bda-abe8-318eeb32caf4
 
 **Features**
 
-# vacuumless chuck (vacuum chuck functionality will be added next version).
-# Adjustable speed (350 to 10000 RPM).
-# User defined ramp rate and coating time.
-# Stable and uniform coating.
-# PID based presice RPM control.
+* vacuumless chuck (vacuum chuck functionality will be added next version).
+* Adjustable speed (350 to 10000 RPM).
+* User defined ramp rate and coating time.
+* Stable and uniform coating.
+* PID based presice RPM control.
 
 **Working Principle**
 
